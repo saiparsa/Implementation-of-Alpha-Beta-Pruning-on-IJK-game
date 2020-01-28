@@ -1,12 +1,5 @@
-#!/usr/local/bin/python3
 
-"""
-This is where you should write your AI code!
-
-Authors: Sai Prasad Parsa(saiparsa), Sanath Edupuganti(saedup) , Akhil Nagulavancha(aknagu)
-
-Based on skeleton code by Abhilash Kuhikar, October 2019
-"""
+#Based on skeleton code by Abhilash Kuhikar, October 2019
 
 from logic_IJK import Game_IJK
 import math
